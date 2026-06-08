@@ -13,4 +13,6 @@ jupyter
 notebook
 ipykernel
 
+openpyxl
+
 pytest
